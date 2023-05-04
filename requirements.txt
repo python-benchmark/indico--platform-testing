@@ -95,7 +95,7 @@ executing==1.2.0
     #   stack-data
 feedgen==0.9.0
     # via -r requirements.in
-flask==2.2.2
+flask==2.2.5
     # via
     #   -r requirements.in
     #   flask-babel
