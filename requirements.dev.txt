@@ -244,13 +244,13 @@ tomli==2.0.1
     #   coverage
     #   pep517
     #   pytest
-tornado==6.2
+tornado==6.3.3
     # via livereload
 urllib3==1.26.12
     # via
     #   -c requirements.txt
     #   requests
-werkzeug==2.2.2
+werkzeug==3.0.1
     # via
     #   -c requirements.txt
     #   flask
