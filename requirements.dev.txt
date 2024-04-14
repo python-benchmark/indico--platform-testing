@@ -77,7 +77,7 @@ hiredis==2.0.0
     # via
     #   -c requirements.txt
     #   redis
-idna==3.4
+idna==3.7
     # via
     #   -c requirements.txt
     #   requests
