@@ -141,7 +141,7 @@ html5lib==1.1
     # via lxml
 icalendar==4.1.0
     # via -r requirements.in
-idna==3.4
+idna==3.7
     # via
     #   email-validator
     #   requests
