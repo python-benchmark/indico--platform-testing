@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements.dev.in
 #
-aiosmtpd==1.4.2
+aiosmtpd==1.4.6
     # via pytest-localserver
 alabaster==0.7.12
     # via sphinx
