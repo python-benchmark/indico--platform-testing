@@ -8,6 +8,11 @@ on:
   schedule:
     - cron: '0 0 * * 1'
   workflow_dispatch:
+    inputs:
+      languages:
+        description: 'Languages to analyze'
+        required: true
+        default: 'javascript'
 
 jobs:
   analyze:
