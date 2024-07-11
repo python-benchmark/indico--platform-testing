@@ -12,7 +12,7 @@ on:
       languages:
         description: 'Languages to analyze'
         required: true
-        default: 'javascript'
+        default: 'python'
 
 jobs:
   analyze:
